@@ -1,1 +1,10 @@
-# Kaggle_NLP_with_Disaster_Tweets
+# Implementation Details
+
+### preprocessing techniques
+> special characters removed
+> lemmatization
+> tokkenization
+> TF-IDF
+
+### Machine Learning
+> Support Vector Machine
